@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Ultimate Footy',
+			icon: 'trophy',
+			link: 'https://www.ultimatefooty.com.au/',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Kayo',
+			icon: 'video',
+			link: 'https://kayosports.com.au/browse',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Drive',
+			icon: 'upload-cloud',
+			link: 'https://drive.google.com/drive/my-drive',
 		},
 	],
 
