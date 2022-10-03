@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Ultimate Footy',
-			icon: 'trophy',
-			link: 'https://www.ultimatefooty.com.au/',
-		},
-		{
-			id: '2',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://app.hey.com/',
 		},
 		{
+			id: '2',
+			name: 'The Athletic',
+			icon: 'trophy',
+			link: 'https://theathletic.com/uk/?redirected=1',
+		},
+		{
 			id: '3',
-			name: 'Kayo',
-			icon: 'video',
-			link: 'https://kayosports.com.au/browse',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Discord',
+			icon: 'message-square',
+			link: 'https://discord.com/channels/870657253001273374/870657253496225823',
 		},
 		{
 			id: '6',
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'star',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Ultimate Footy',
+					link: 'https://www.ultimatefooty.com.au/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Dangergawn',
+					link: 'https://dangergawn.com/wp-admin/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Bundled',
+					link: 'https://bundlednotes.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Kayo',
+					link: 'https://kayosports.com.au/',
 				},
 			],
 		},
